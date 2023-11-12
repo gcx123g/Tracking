@@ -1,0 +1,833 @@
+<ns0:svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns2="http://creativecommons.org/ns#" xmlns:ns4="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" height="-345.6" version="1.1" viewBox="0 0 460.8 345.6" width="-460.8">
+ <ns0:metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2023-10-24T14:27:23.239056</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>Matplotlib v3.4.3, https://matplotlib.org/</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </ns0:metadata>
+ <ns0:defs>
+  <ns0:style type="text/css">*{stroke-linecap:butt;stroke-linejoin:round;}</ns0:style>
+ </ns0:defs>
+ <ns0:g id="figure_1">
+  <ns0:g id="patch_1">
+   <ns0:path d="M L L L z" style="fill:#ffffff;" />
+  </ns0:g>
+  <ns0:g id="axes_1">
+   <ns0:g id="patch_2">
+    <ns0:path d="M L L L z" style="fill:#ffffff;" />
+   </ns0:g>
+   <ns0:g id="matplotlib.axis_1">
+    <ns0:g id="xtick_1">
+     <ns0:g id="line2d_1">
+      <ns0:path clip-path="url(#p45db607c7c)" d="M L" style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;" />
+     </ns0:g>
+     <ns0:g id="line2d_2">
+      <ns0:defs>
+       <ns0:path d="M L" id="m2962406cf2" style="stroke:#000000;stroke-width:0.8;" />
+      </ns0:defs>
+      <ns0:g>
+       <ns0:use style="stroke:#000000;stroke-width:0.8;" x="103.104" ns4:href="#m2962406cf2" y="307.584" />
+      </ns0:g>
+     </ns0:g>
+     <ns0:g id="text_1">
+      
+      <ns0:g transform="translate(100.613332 321.68232)scale(0.1 -0.1)">
+       <ns0:defs>
+        <ns0:path d="M C C C C C C C C z M C C C C C C C C z" id="CMR17-30" transform="scale(0.015625)" />
+       </ns0:defs>
+       <ns0:use transform="scale(0.996264)" ns4:href="#CMR17-30" />
+      </ns0:g>
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="xtick_2">
+     <ns0:g id="line2d_3">
+      <ns0:path clip-path="url(#p45db607c7c)" d="M L" style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;" />
+     </ns0:g>
+     <ns0:g id="line2d_4">
+      <ns0:g>
+       <ns0:use style="stroke:#000000;stroke-width:0.8;" x="129.7152" ns4:href="#m2962406cf2" y="307.584" />
+      </ns0:g>
+     </ns0:g>
+     <ns0:g id="text_2">
+      
+      <ns0:g transform="translate(127.224532 321.68232)scale(0.1 -0.1)">
+       <ns0:defs>
+        <ns0:path d="M C C C C C C C C L C C C C C C C C C C C C C C C L z" id="CMR17-35" transform="scale(0.015625)" />
+       </ns0:defs>
+       <ns0:use transform="scale(0.996264)" ns4:href="#CMR17-35" />
+      </ns0:g>
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="xtick_3">
+     <ns0:g id="line2d_5">
+      <ns0:path clip-path="url(#p45db607c7c)" d="M L" style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;" />
+     </ns0:g>
+     <ns0:g id="line2d_6">
+      <ns0:g>
+       <ns0:use style="stroke:#000000;stroke-width:0.8;" x="156.3264" ns4:href="#m2962406cf2" y="307.584" />
+      </ns0:g>
+     </ns0:g>
+     <ns0:g id="text_3">
+      
+      <ns0:g transform="translate(151.345065 321.68232)scale(0.1 -0.1)">
+       <ns0:defs>
+        <ns0:path d="M C C C C C L C L L C C L L C L z" id="CMR17-31" transform="scale(0.015625)" />
+       </ns0:defs>
+       <ns0:use transform="scale(0.996264)" ns4:href="#CMR17-31" />
+       <ns0:use transform="translate(45.690477 0)scale(0.996264)" ns4:href="#CMR17-30" />
+      </ns0:g>
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="xtick_4">
+     <ns0:g id="line2d_7">
+      <ns0:path clip-path="url(#p45db607c7c)" d="M L" style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;" />
+     </ns0:g>
+     <ns0:g id="line2d_8">
+      <ns0:g>
+       <ns0:use style="stroke:#000000;stroke-width:0.8;" x="182.9376" ns4:href="#m2962406cf2" y="307.584" />
+      </ns0:g>
+     </ns0:g>
+     <ns0:g id="text_4">
+      
+      <ns0:g transform="translate(177.956265 321.68232)scale(0.1 -0.1)">
+       <ns0:use transform="scale(0.996264)" ns4:href="#CMR17-31" />
+       <ns0:use transform="translate(45.690477 0)scale(0.996264)" ns4:href="#CMR17-35" />
+      </ns0:g>
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="xtick_5">
+     <ns0:g id="line2d_9">
+      <ns0:path clip-path="url(#p45db607c7c)" d="M L" style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;" />
+     </ns0:g>
+     <ns0:g id="line2d_10">
+      <ns0:g>
+       <ns0:use style="stroke:#000000;stroke-width:0.8;" x="209.5488" ns4:href="#m2962406cf2" y="307.584" />
+      </ns0:g>
+     </ns0:g>
+     <ns0:g id="text_5">
+      
+      <ns0:g transform="translate(204.567465 321.68232)scale(0.1 -0.1)">
+       <ns0:defs>
+        <ns0:path d="M L C C L C C C C C C C C C C C L L L L z" id="CMR17-32" transform="scale(0.015625)" />
+       </ns0:defs>
+       <ns0:use transform="scale(0.996264)" ns4:href="#CMR17-32" />
+       <ns0:use transform="translate(45.690477 0)scale(0.996264)" ns4:href="#CMR17-30" />
+      </ns0:g>
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="xtick_6">
+     <ns0:g id="line2d_11">
+      <ns0:path clip-path="url(#p45db607c7c)" d="M L" style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;" />
+     </ns0:g>
+     <ns0:g id="line2d_12">
+      <ns0:g>
+       <ns0:use style="stroke:#000000;stroke-width:0.8;" x="236.16" ns4:href="#m2962406cf2" y="307.584" />
+      </ns0:g>
+     </ns0:g>
+     <ns0:g id="text_6">
+      
+      <ns0:g transform="translate(231.178665 321.68232)scale(0.1 -0.1)">
+       <ns0:use transform="scale(0.996264)" ns4:href="#CMR17-32" />
+       <ns0:use transform="translate(45.690477 0)scale(0.996264)" ns4:href="#CMR17-35" />
+      </ns0:g>
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="xtick_7">
+     <ns0:g id="line2d_13">
+      <ns0:path clip-path="url(#p45db607c7c)" d="M L" style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;" />
+     </ns0:g>
+     <ns0:g id="line2d_14">
+      <ns0:g>
+       <ns0:use style="stroke:#000000;stroke-width:0.8;" x="262.7712" ns4:href="#m2962406cf2" y="307.584" />
+      </ns0:g>
+     </ns0:g>
+     <ns0:g id="text_7">
+      
+      <ns0:g transform="translate(257.789865 321.68232)scale(0.1 -0.1)">
+       <ns0:defs>
+        <ns0:path d="M C C C C C C C C C C C C C C C C C C C C C C C C L z" id="CMR17-33" transform="scale(0.015625)" />
+       </ns0:defs>
+       <ns0:use transform="scale(0.996264)" ns4:href="#CMR17-33" />
+       <ns0:use transform="translate(45.690477 0)scale(0.996264)" ns4:href="#CMR17-30" />
+      </ns0:g>
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="xtick_8">
+     <ns0:g id="line2d_15">
+      <ns0:path clip-path="url(#p45db607c7c)" d="M L" style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;" />
+     </ns0:g>
+     <ns0:g id="line2d_16">
+      <ns0:g>
+       <ns0:use style="stroke:#000000;stroke-width:0.8;" x="289.3824" ns4:href="#m2962406cf2" y="307.584" />
+      </ns0:g>
+     </ns0:g>
+     <ns0:g id="text_8">
+      
+      <ns0:g transform="translate(284.401065 321.68232)scale(0.1 -0.1)">
+       <ns0:use transform="scale(0.996264)" ns4:href="#CMR17-33" />
+       <ns0:use transform="translate(45.690477 0)scale(0.996264)" ns4:href="#CMR17-35" />
+      </ns0:g>
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="xtick_9">
+     <ns0:g id="line2d_17">
+      <ns0:path clip-path="url(#p45db607c7c)" d="M L" style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;" />
+     </ns0:g>
+     <ns0:g id="line2d_18">
+      <ns0:g>
+       <ns0:use style="stroke:#000000;stroke-width:0.8;" x="315.9936" ns4:href="#m2962406cf2" y="307.584" />
+      </ns0:g>
+     </ns0:g>
+     <ns0:g id="text_9">
+      
+      <ns0:g transform="translate(311.012265 321.68232)scale(0.1 -0.1)">
+       <ns0:defs>
+        <ns0:path d="M C L L L L C L L C C L L C L L L L L z M L L L z" id="CMR17-34" transform="scale(0.015625)" />
+       </ns0:defs>
+       <ns0:use transform="scale(0.996264)" ns4:href="#CMR17-34" />
+       <ns0:use transform="translate(45.690477 0)scale(0.996264)" ns4:href="#CMR17-30" />
+      </ns0:g>
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="xtick_10">
+     <ns0:g id="line2d_19">
+      <ns0:path clip-path="url(#p45db607c7c)" d="M L" style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;" />
+     </ns0:g>
+     <ns0:g id="line2d_20">
+      <ns0:g>
+       <ns0:use style="stroke:#000000;stroke-width:0.8;" x="342.6048" ns4:href="#m2962406cf2" y="307.584" />
+      </ns0:g>
+     </ns0:g>
+     <ns0:g id="text_10">
+      
+      <ns0:g transform="translate(337.623465 321.68232)scale(0.1 -0.1)">
+       <ns0:use transform="scale(0.996264)" ns4:href="#CMR17-34" />
+       <ns0:use transform="translate(45.690477 0)scale(0.996264)" ns4:href="#CMR17-35" />
+      </ns0:g>
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="xtick_11">
+     <ns0:g id="line2d_21">
+      <ns0:path clip-path="url(#p45db607c7c)" d="M L" style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;" />
+     </ns0:g>
+     <ns0:g id="line2d_22">
+      <ns0:g>
+       <ns0:use style="stroke:#000000;stroke-width:0.8;" x="369.216" ns4:href="#m2962406cf2" y="307.584" />
+      </ns0:g>
+     </ns0:g>
+     <ns0:g id="text_11">
+      
+      <ns0:g transform="translate(364.234665 321.68232)scale(0.1 -0.1)">
+       <ns0:use transform="scale(0.996264)" ns4:href="#CMR17-35" />
+       <ns0:use transform="translate(45.690477 0)scale(0.996264)" ns4:href="#CMR17-30" />
+      </ns0:g>
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="text_12">
+     
+     <ns0:g transform="translate(183.557972 334.902627)scale(0.1 -0.1)">
+      <ns0:defs>
+       <ns0:path d="M L L L L L L z" id="NimbusSanL-Regu-4c" transform="scale(0.015625)" />
+       <ns0:path d="M C C C C z M C C C C z" id="NimbusSanL-Regu-6f" transform="scale(0.015625)" />
+       <ns0:path d="M C C C C C L C C C C L z" id="NimbusSanL-Regu-63" transform="scale(0.015625)" />
+       <ns0:path d="M C C L C C C L C C L C C C C C C C L z M C C C C C L z" id="NimbusSanL-Regu-61" transform="scale(0.015625)" />
+       <ns0:path d="M L L L L L L L L C C L C C L L L z" id="NimbusSanL-Regu-74" transform="scale(0.015625)" />
+       <ns0:path d="M L L L L z M L L L L z" id="NimbusSanL-Regu-69" transform="scale(0.015625)" />
+       <ns0:path d="M L L L C C L L L C C L L z" id="NimbusSanL-Regu-6e" transform="scale(0.015625)" />
+       <ns0:path d="M C C C C C L C C C L z M C C C L z" id="NimbusSanL-Regu-65" transform="scale(0.015625)" />
+       <ns0:path d="M L L L C C L C C L L z" id="NimbusSanL-Regu-72" transform="scale(0.015625)" />
+       <ns0:path d="M L L L C C C L L L C C L L z" id="NimbusSanL-Regu-68" transform="scale(0.015625)" />
+       <ns0:path d="M C C C L C C C C L C C C L C C C L z" id="NimbusSanL-Regu-73" transform="scale(0.015625)" />
+       <ns0:path d="M L L L L z" id="NimbusSanL-Regu-6c" transform="scale(0.015625)" />
+       <ns0:path d="M L L C C C C L L L z M C C C C z" id="NimbusSanL-Regu-64" transform="scale(0.015625)" />
+      </ns0:defs>
+      <ns0:use transform="scale(0.996264)" ns4:href="#NimbusSanL-Regu-4c" />
+      <ns0:use transform="translate(55.391677 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-6f" />
+      <ns0:use transform="translate(110.783354 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-63" />
+      <ns0:use transform="translate(160.596554 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-61" />
+      <ns0:use transform="translate(215.988231 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-74" />
+      <ns0:use transform="translate(243.683401 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-69" />
+      <ns0:use transform="translate(265.800185 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-6f" />
+      <ns0:use transform="translate(321.191862 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-6e" />
+      <ns0:use transform="translate(404.278709 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-65" />
+      <ns0:use transform="translate(459.670386 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-72" />
+      <ns0:use transform="translate(492.845616 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-72" />
+      <ns0:use transform="translate(526.020845 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-6f" />
+      <ns0:use transform="translate(581.412522 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-72" />
+      <ns0:use transform="translate(642.282922 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-74" />
+      <ns0:use transform="translate(669.978091 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-68" />
+      <ns0:use transform="translate(725.369768 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-72" />
+      <ns0:use transform="translate(758.544998 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-65" />
+      <ns0:use transform="translate(813.936675 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-73" />
+      <ns0:use transform="translate(863.749875 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-68" />
+      <ns0:use transform="translate(919.141552 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-6f" />
+      <ns0:use transform="translate(974.533229 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-6c" />
+      <ns0:use transform="translate(996.650014 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-64" />
+     </ns0:g>
+    </ns0:g>
+   </ns0:g>
+   <ns0:g id="matplotlib.axis_2">
+    <ns0:g id="ytick_1">
+     <ns0:g id="line2d_23">
+      <ns0:path clip-path="url(#p45db607c7c)" d="M L" style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;" />
+     </ns0:g>
+     <ns0:g id="line2d_24">
+      <ns0:defs>
+       <ns0:path d="M L" id="m8090e75f2e" style="stroke:#000000;stroke-width:0.8;" />
+      </ns0:defs>
+      <ns0:g>
+       <ns0:use style="stroke:#000000;stroke-width:0.8;" x="103.104" ns4:href="#m8090e75f2e" y="307.584" />
+      </ns0:g>
+     </ns0:g>
+     <ns0:g id="text_13">
+      
+      <ns0:g transform="translate(83.373921 311.13316)scale(0.1 -0.1)">
+       <ns0:defs>
+        <ns0:path d="M C C C C z" id="CMMI12-3a" transform="scale(0.015625)" />
+       </ns0:defs>
+       <ns0:use transform="scale(0.996264)" ns4:href="#CMR17-30" />
+       <ns0:use transform="translate(45.690477 0)scale(0.996264)" ns4:href="#CMMI12-3a" />
+       <ns0:use transform="translate(72.787654 0)scale(0.996264)" ns4:href="#CMR17-30" />
+      </ns0:g>
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="ytick_2">
+     <ns0:g id="line2d_25">
+      <ns0:path clip-path="url(#p45db607c7c)" d="M L" style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;" />
+     </ns0:g>
+     <ns0:g id="line2d_26">
+      <ns0:g>
+       <ns0:use style="stroke:#000000;stroke-width:0.8;" x="103.104" ns4:href="#m8090e75f2e" y="280.903075" />
+      </ns0:g>
+     </ns0:g>
+     <ns0:g id="text_14">
+      
+      <ns0:g transform="translate(83.373921 284.452235)scale(0.1 -0.1)">
+       <ns0:use transform="scale(0.996264)" ns4:href="#CMR17-30" />
+       <ns0:use transform="translate(45.690477 0)scale(0.996264)" ns4:href="#CMMI12-3a" />
+       <ns0:use transform="translate(72.787654 0)scale(0.996264)" ns4:href="#CMR17-31" />
+      </ns0:g>
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="ytick_3">
+     <ns0:g id="line2d_27">
+      <ns0:path clip-path="url(#p45db607c7c)" d="M L" style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;" />
+     </ns0:g>
+     <ns0:g id="line2d_28">
+      <ns0:g>
+       <ns0:use style="stroke:#000000;stroke-width:0.8;" x="103.104" ns4:href="#m8090e75f2e" y="254.222149" />
+      </ns0:g>
+     </ns0:g>
+     <ns0:g id="text_15">
+      
+      <ns0:g transform="translate(83.373921 257.771309)scale(0.1 -0.1)">
+       <ns0:use transform="scale(0.996264)" ns4:href="#CMR17-30" />
+       <ns0:use transform="translate(45.690477 0)scale(0.996264)" ns4:href="#CMMI12-3a" />
+       <ns0:use transform="translate(72.787654 0)scale(0.996264)" ns4:href="#CMR17-32" />
+      </ns0:g>
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="ytick_4">
+     <ns0:g id="line2d_29">
+      <ns0:path clip-path="url(#p45db607c7c)" d="M L" style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;" />
+     </ns0:g>
+     <ns0:g id="line2d_30">
+      <ns0:g>
+       <ns0:use style="stroke:#000000;stroke-width:0.8;" x="103.104" ns4:href="#m8090e75f2e" y="227.541224" />
+      </ns0:g>
+     </ns0:g>
+     <ns0:g id="text_16">
+      
+      <ns0:g transform="translate(83.373921 231.090384)scale(0.1 -0.1)">
+       <ns0:use transform="scale(0.996264)" ns4:href="#CMR17-30" />
+       <ns0:use transform="translate(45.690477 0)scale(0.996264)" ns4:href="#CMMI12-3a" />
+       <ns0:use transform="translate(72.787654 0)scale(0.996264)" ns4:href="#CMR17-33" />
+      </ns0:g>
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="ytick_5">
+     <ns0:g id="line2d_31">
+      <ns0:path clip-path="url(#p45db607c7c)" d="M L" style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;" />
+     </ns0:g>
+     <ns0:g id="line2d_32">
+      <ns0:g>
+       <ns0:use style="stroke:#000000;stroke-width:0.8;" x="103.104" ns4:href="#m8090e75f2e" y="200.860299" />
+      </ns0:g>
+     </ns0:g>
+     <ns0:g id="text_17">
+      
+      <ns0:g transform="translate(83.373921 204.409459)scale(0.1 -0.1)">
+       <ns0:use transform="scale(0.996264)" ns4:href="#CMR17-30" />
+       <ns0:use transform="translate(45.690477 0)scale(0.996264)" ns4:href="#CMMI12-3a" />
+       <ns0:use transform="translate(72.787654 0)scale(0.996264)" ns4:href="#CMR17-34" />
+      </ns0:g>
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="ytick_6">
+     <ns0:g id="line2d_33">
+      <ns0:path clip-path="url(#p45db607c7c)" d="M L" style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;" />
+     </ns0:g>
+     <ns0:g id="line2d_34">
+      <ns0:g>
+       <ns0:use style="stroke:#000000;stroke-width:0.8;" x="103.104" ns4:href="#m8090e75f2e" y="174.179373" />
+      </ns0:g>
+     </ns0:g>
+     <ns0:g id="text_18">
+      
+      <ns0:g transform="translate(83.373921 177.728533)scale(0.1 -0.1)">
+       <ns0:use transform="scale(0.996264)" ns4:href="#CMR17-30" />
+       <ns0:use transform="translate(45.690477 0)scale(0.996264)" ns4:href="#CMMI12-3a" />
+       <ns0:use transform="translate(72.787654 0)scale(0.996264)" ns4:href="#CMR17-35" />
+      </ns0:g>
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="ytick_7">
+     <ns0:g id="line2d_35">
+      <ns0:path clip-path="url(#p45db607c7c)" d="M L" style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;" />
+     </ns0:g>
+     <ns0:g id="line2d_36">
+      <ns0:g>
+       <ns0:use style="stroke:#000000;stroke-width:0.8;" x="103.104" ns4:href="#m8090e75f2e" y="147.498448" />
+      </ns0:g>
+     </ns0:g>
+     <ns0:g id="text_19">
+      
+      <ns0:g transform="translate(83.373921 151.047608)scale(0.1 -0.1)">
+       <ns0:defs>
+        <ns0:path d="M C C C C C C C C C C C L z M C C C C C C z" id="CMR17-36" transform="scale(0.015625)" />
+       </ns0:defs>
+       <ns0:use transform="scale(0.996264)" ns4:href="#CMR17-30" />
+       <ns0:use transform="translate(45.690477 0)scale(0.996264)" ns4:href="#CMMI12-3a" />
+       <ns0:use transform="translate(72.787654 0)scale(0.996264)" ns4:href="#CMR17-36" />
+      </ns0:g>
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="ytick_8">
+     <ns0:g id="line2d_37">
+      <ns0:path clip-path="url(#p45db607c7c)" d="M L" style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;" />
+     </ns0:g>
+     <ns0:g id="line2d_38">
+      <ns0:g>
+       <ns0:use style="stroke:#000000;stroke-width:0.8;" x="103.104" ns4:href="#m8090e75f2e" y="120.817523" />
+      </ns0:g>
+     </ns0:g>
+     <ns0:g id="text_20">
+      
+      <ns0:g transform="translate(83.373921 124.366683)scale(0.1 -0.1)">
+       <ns0:defs>
+        <ns0:path d="M L L C L L L C C L L C C C L C L z" id="CMR17-37" transform="scale(0.015625)" />
+       </ns0:defs>
+       <ns0:use transform="scale(0.996264)" ns4:href="#CMR17-30" />
+       <ns0:use transform="translate(45.690477 0)scale(0.996264)" ns4:href="#CMMI12-3a" />
+       <ns0:use transform="translate(72.787654 0)scale(0.996264)" ns4:href="#CMR17-37" />
+      </ns0:g>
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="ytick_9">
+     <ns0:g id="line2d_39">
+      <ns0:path clip-path="url(#p45db607c7c)" d="M L" style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;" />
+     </ns0:g>
+     <ns0:g id="line2d_40">
+      <ns0:g>
+       <ns0:use style="stroke:#000000;stroke-width:0.8;" x="103.104" ns4:href="#m8090e75f2e" y="94.136597" />
+      </ns0:g>
+     </ns0:g>
+     <ns0:g id="text_21">
+      
+      <ns0:g transform="translate(83.373921 97.685757)scale(0.1 -0.1)">
+       <ns0:defs>
+        <ns0:path d="M C C C C C C C C C L z M C C C C C L z M C C C C L z" id="CMR17-38" transform="scale(0.015625)" />
+       </ns0:defs>
+       <ns0:use transform="scale(0.996264)" ns4:href="#CMR17-30" />
+       <ns0:use transform="translate(45.690477 0)scale(0.996264)" ns4:href="#CMMI12-3a" />
+       <ns0:use transform="translate(72.787654 0)scale(0.996264)" ns4:href="#CMR17-38" />
+      </ns0:g>
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="ytick_10">
+     <ns0:g id="line2d_41">
+      <ns0:path clip-path="url(#p45db607c7c)" d="M L" style="fill:none;stroke:#b0b0b0;stroke-linecap:square;stroke-width:0.8;" />
+     </ns0:g>
+     <ns0:g id="line2d_42">
+      <ns0:g>
+       <ns0:use style="stroke:#000000;stroke-width:0.8;" x="103.104" ns4:href="#m8090e75f2e" y="67.455672" />
+      </ns0:g>
+     </ns0:g>
+     <ns0:g id="text_22">
+      
+      <ns0:g transform="translate(83.373921 71.004832)scale(0.1 -0.1)">
+       <ns0:defs>
+        <ns0:path d="M C C C C C C C C C C C L z M C C C C C C z" id="CMR17-39" transform="scale(0.015625)" />
+       </ns0:defs>
+       <ns0:use transform="scale(0.996264)" ns4:href="#CMR17-30" />
+       <ns0:use transform="translate(45.690477 0)scale(0.996264)" ns4:href="#CMMI12-3a" />
+       <ns0:use transform="translate(72.787654 0)scale(0.996264)" ns4:href="#CMR17-39" />
+      </ns0:g>
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="text_23">
+     
+     <ns0:g transform="translate(77.251935 195.011003)rotate(-90)scale(0.1 -0.1)">
+      <ns0:defs>
+       <ns0:path d="M L C C C L L L L z M L L C C L z" id="NimbusSanL-Regu-50" transform="scale(0.015625)" />
+      </ns0:defs>
+      <ns0:use transform="scale(0.996264)" ns4:href="#NimbusSanL-Regu-50" />
+      <ns0:use transform="translate(66.450031 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-72" />
+      <ns0:use transform="translate(99.625261 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-65" />
+      <ns0:use transform="translate(155.016938 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-63" />
+      <ns0:use transform="translate(204.830138 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-69" />
+      <ns0:use transform="translate(226.946923 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-73" />
+      <ns0:use transform="translate(276.760123 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-69" />
+      <ns0:use transform="translate(298.876908 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-6f" />
+      <ns0:use transform="translate(354.268584 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-6e" />
+     </ns0:g>
+    </ns0:g>
+   </ns0:g>
+   <ns0:g id="line2d_43">
+    <ns0:path clip-path="url(#p45db607c7c)" d="M L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L" style="fill:none;stroke:#ff0000;stroke-linecap:square;stroke-width:2;" />
+   </ns0:g>
+   <ns0:g id="line2d_44">
+    <ns0:path clip-path="url(#p45db607c7c)" d="M L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L" style="fill:none;stroke:#00ff00;stroke-dasharray:7.4,3.2;stroke-dashoffset:0;stroke-width:2;" />
+   </ns0:g>
+   <ns0:g id="line2d_45">
+    <ns0:path clip-path="url(#p45db607c7c)" d="M L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L" style="fill:none;stroke:#ff00ff;stroke-dasharray:2,3.3;stroke-dashoffset:0;stroke-width:2;" />
+   </ns0:g>
+   <ns0:g id="line2d_46">
+    <ns0:path clip-path="url(#p45db607c7c)" d="M L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L" style="fill:none;stroke:#ffff00;stroke-linecap:square;stroke-width:2;" />
+   </ns0:g>
+   <ns0:g id="line2d_47">
+    <ns0:path clip-path="url(#p45db607c7c)" d="M L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L" style="fill:none;stroke:#00a2e8;stroke-dasharray:7.4,3.2;stroke-dashoffset:0;stroke-width:2;" />
+   </ns0:g>
+   <ns0:g id="line2d_48">
+    <ns0:path clip-path="url(#p45db607c7c)" d="M L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L" style="fill:none;stroke:#808080;stroke-dasharray:2,3.3;stroke-dashoffset:0;stroke-width:2;" />
+   </ns0:g>
+   <ns0:g id="line2d_49">
+    <ns0:path clip-path="url(#p45db607c7c)" d="M L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L" style="fill:none;stroke:#0000ff;stroke-linecap:square;stroke-width:2;" />
+   </ns0:g>
+   <ns0:g id="line2d_50">
+    <ns0:path clip-path="url(#p45db607c7c)" d="M L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L" style="fill:none;stroke:#00ffff;stroke-dasharray:7.4,3.2;stroke-dashoffset:0;stroke-width:2;" />
+   </ns0:g>
+   <ns0:g id="line2d_51">
+    <ns0:path clip-path="url(#p45db607c7c)" d="M L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L L" style="fill:none;stroke:#880015;stroke-dasharray:2,3.3;stroke-dashoffset:0;stroke-width:2;" />
+   </ns0:g>
+   <ns0:g id="patch_3">
+    <ns0:path d="M L" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;" />
+   </ns0:g>
+   <ns0:g id="patch_4">
+    <ns0:path d="M L" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;" />
+   </ns0:g>
+   <ns0:g id="patch_5">
+    <ns0:path d="M L" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;" />
+   </ns0:g>
+   <ns0:g id="patch_6">
+    <ns0:path d="M L" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;" />
+   </ns0:g>
+   <ns0:g id="text_24">
+    
+    <ns0:g transform="translate(148.708988 35.472)scale(0.12 -0.12)">
+     <ns0:defs>
+      <ns0:path d="M L C C L L L L z M L L C C L z" id="NimbusSanL-Bold-50" transform="scale(0.015625)" />
+      <ns0:path d="M L L L C C L C C L L z" id="NimbusSanL-Bold-72" transform="scale(0.015625)" />
+      <ns0:path d="M C C C C C C L C C C L z M C C C L z" id="NimbusSanL-Bold-65" transform="scale(0.015625)" />
+      <ns0:path d="M C C C C L C C C C C L z" id="NimbusSanL-Bold-63" transform="scale(0.015625)" />
+      <ns0:path d="M L L L L z M L L L L z" id="NimbusSanL-Bold-69" transform="scale(0.015625)" />
+      <ns0:path d="M C C C C L C C C C L C C C C L C C C L z" id="NimbusSanL-Bold-73" transform="scale(0.015625)" />
+      <ns0:path d="M C C C C z M C C C C z" id="NimbusSanL-Bold-6f" transform="scale(0.015625)" />
+      <ns0:path d="M L L L C C L L L C C L L z" id="NimbusSanL-Bold-6e" transform="scale(0.015625)" />
+      <ns0:path d="M L L L L C C C C C L z M C C C C z" id="NimbusSanL-Bold-70" transform="scale(0.015625)" />
+      <ns0:path d="M L L L L z" id="NimbusSanL-Bold-6c" transform="scale(0.015625)" />
+      <ns0:path d="M L L L L L L L L C C L C C L L L z" id="NimbusSanL-Bold-74" transform="scale(0.015625)" />
+      <ns0:path d="M L L C C L C C L L L L L L L L L z" id="NimbusSanL-Bold-66" transform="scale(0.015625)" />
+      <ns0:path d="M C C C C C C C C z M C C C C z" id="NimbusSanL-Bold-4f" transform="scale(0.015625)" />
+      <ns0:path d="M L L L L L L L L L L L L z" id="NimbusSanL-Bold-45" transform="scale(0.015625)" />
+      <ns0:path d="M L L L L L L L L z" id="NimbusSanL-Bold-54" transform="scale(0.015625)" />
+      <ns0:path d="M L C C C C C C L L z M L C C L L z M L C C L L z" id="NimbusSanL-Bold-42" transform="scale(0.015625)" />
+     </ns0:defs>
+     <ns0:use transform="scale(0.996264)" ns4:href="#NimbusSanL-Bold-50" />
+     <ns0:use transform="translate(66.450031 0)scale(0.996264)" ns4:href="#NimbusSanL-Bold-72" />
+     <ns0:use transform="translate(105.203737 0)scale(0.996264)" ns4:href="#NimbusSanL-Bold-65" />
+     <ns0:use transform="translate(160.595414 0)scale(0.996264)" ns4:href="#NimbusSanL-Bold-63" />
+     <ns0:use transform="translate(215.987091 0)scale(0.996264)" ns4:href="#NimbusSanL-Bold-69" />
+     <ns0:use transform="translate(243.682261 0)scale(0.996264)" ns4:href="#NimbusSanL-Bold-73" />
+     <ns0:use transform="translate(299.073938 0)scale(0.996264)" ns4:href="#NimbusSanL-Bold-69" />
+     <ns0:use transform="translate(326.769107 0)scale(0.996264)" ns4:href="#NimbusSanL-Bold-6f" />
+     <ns0:use transform="translate(387.640738 0)scale(0.996264)" ns4:href="#NimbusSanL-Bold-6e" />
+     <ns0:use transform="translate(476.207538 0)scale(0.996264)" ns4:href="#NimbusSanL-Bold-70" />
+     <ns0:use transform="translate(537.079169 0)scale(0.996264)" ns4:href="#NimbusSanL-Bold-6c" />
+     <ns0:use transform="translate(564.774339 0)scale(0.996264)" ns4:href="#NimbusSanL-Bold-6f" />
+     <ns0:use transform="translate(625.645969 0)scale(0.996264)" ns4:href="#NimbusSanL-Bold-74" />
+     <ns0:use transform="translate(658.821199 0)scale(0.996264)" ns4:href="#NimbusSanL-Bold-73" />
+     <ns0:use transform="translate(741.908046 0)scale(0.996264)" ns4:href="#NimbusSanL-Bold-6f" />
+     <ns0:use transform="translate(802.779676 0)scale(0.996264)" ns4:href="#NimbusSanL-Bold-66" />
+     <ns0:use transform="translate(863.650076 0)scale(0.996264)" ns4:href="#NimbusSanL-Bold-4f" />
+     <ns0:use transform="translate(941.158446 0)scale(0.996264)" ns4:href="#NimbusSanL-Bold-50" />
+     <ns0:use transform="translate(1007.608477 0)scale(0.996264)" ns4:href="#NimbusSanL-Bold-45" />
+     <ns0:use transform="translate(1101.753678 0)scale(0.996264)" ns4:href="#NimbusSanL-Bold-6f" />
+     <ns0:use transform="translate(1162.625308 0)scale(0.996264)" ns4:href="#NimbusSanL-Bold-6e" />
+     <ns0:use transform="translate(1251.192109 0)scale(0.996264)" ns4:href="#NimbusSanL-Bold-4f" />
+     <ns0:use transform="translate(1324.716365 0)scale(0.996264)" ns4:href="#NimbusSanL-Bold-54" />
+     <ns0:use transform="translate(1385.587996 0)scale(0.996264)" ns4:href="#NimbusSanL-Bold-42" />
+    </ns0:g>
+   </ns0:g>
+   <ns0:g id="legend_1">
+    <ns0:g id="patch_7">
+     <ns0:path d="M L Q L Q L Q L Q z" style="fill:#ffffff;opacity:0.8;stroke:#cccccc;stroke-linejoin:miter;" />
+    </ns0:g>
+    <ns0:g id="line2d_52">
+     <ns0:path d="M L" style="fill:none;stroke:#ff0000;stroke-linecap:square;stroke-width:2;" />
+    </ns0:g>
+    <ns0:g id="line2d_53" />
+    <ns0:g id="text_25">
+     
+     <ns0:g transform="translate(279.4399 206.69956)scale(0.1 -0.1)">
+      <ns0:defs>
+       <ns0:path d="M L L L L L L L L z" id="NimbusSanL-Regu-5b" transform="scale(0.015625)" />
+       <ns0:path d="M C C C C C C z M C C C C z" id="NimbusSanL-Regu-30" transform="scale(0.015625)" />
+       <ns0:path d="M L L L L z" id="NimbusSanL-Regu-2e" transform="scale(0.015625)" />
+       <ns0:path d="M C C C C C C C C C C L z M C C C C z" id="NimbusSanL-Regu-39" transform="scale(0.015625)" />
+       <ns0:path d="M L C L C C C C C L C C C C L C L L z" id="NimbusSanL-Regu-32" transform="scale(0.015625)" />
+       <ns0:path d="M L L L L L L L L z" id="NimbusSanL-Regu-5d" transform="scale(0.015625)" />
+       <ns0:path d="M L L L L L L L L L L L L z" id="NimbusSanL-Regu-4b" transform="scale(0.015625)" />
+       <ns0:path d="M L L C C C C L L L z M C C C C z" id="NimbusSanL-Regu-70" transform="scale(0.015625)" />
+       <ns0:path d="M L L L L L L L L z" id="NimbusSanL-Regu-54" transform="scale(0.015625)" />
+       <ns0:path d="M L L L L L L L L L L L L z" id="NimbusSanL-Regu-6b" transform="scale(0.015625)" />
+      </ns0:defs>
+      <ns0:use transform="scale(0.996264)" ns4:href="#NimbusSanL-Regu-5b" />
+      <ns0:use transform="translate(27.69517 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-30" />
+      <ns0:use transform="translate(83.086847 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-2e" />
+      <ns0:use transform="translate(110.782016 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-39" />
+      <ns0:use transform="translate(166.173693 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-32" />
+      <ns0:use transform="translate(221.56537 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-32" />
+      <ns0:use transform="translate(276.957047 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-5d" />
+      <ns0:use transform="translate(332.347386 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-4b" />
+      <ns0:use transform="translate(394.813304 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-65" />
+      <ns0:use transform="translate(450.204981 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-65" />
+      <ns0:use transform="translate(505.596658 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-70" />
+      <ns0:use transform="translate(560.988335 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-54" />
+      <ns0:use transform="translate(609.905284 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-72" />
+      <ns0:use transform="translate(642.084417 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-61" />
+      <ns0:use transform="translate(697.476094 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-63" />
+      <ns0:use transform="translate(745.297283 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-6b" />
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="line2d_54">
+     <ns0:path d="M L" style="fill:none;stroke:#00ff00;stroke-dasharray:7.4,3.2;stroke-dashoffset:0;stroke-width:2;" />
+    </ns0:g>
+    <ns0:g id="line2d_55" />
+    <ns0:g id="text_26">
+     
+     <ns0:g transform="translate(279.4399 217.919867)scale(0.1 -0.1)">
+      <ns0:defs>
+       <ns0:path d="M L L L L C L L z" id="NimbusSanL-Regu-31" transform="scale(0.015625)" />
+       <ns0:path d="M L L L C L C L z" id="NimbusSanL-Regu-37" transform="scale(0.015625)" />
+       <ns0:path d="M C C C C C z M C C C C z" id="NimbusSanL-Regu-4f" transform="scale(0.015625)" />
+       <ns0:path d="M L L L C C L L L C C L L z" id="NimbusSanL-Regu-75" transform="scale(0.015625)" />
+      </ns0:defs>
+      <ns0:use transform="scale(0.996264)" ns4:href="#NimbusSanL-Regu-5b" />
+      <ns0:use transform="translate(27.69517 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-30" />
+      <ns0:use transform="translate(83.086847 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-2e" />
+      <ns0:use transform="translate(110.782016 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-39" />
+      <ns0:use transform="translate(166.173693 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-31" />
+      <ns0:use transform="translate(221.56537 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-37" />
+      <ns0:use transform="translate(276.957047 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-5d" />
+      <ns0:use transform="translate(332.347386 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-4f" />
+      <ns0:use transform="translate(409.855756 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-75" />
+      <ns0:use transform="translate(465.247433 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-72" />
+      <ns0:use transform="translate(498.422663 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-73" />
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="line2d_56">
+     <ns0:path d="M L" style="fill:none;stroke:#ff00ff;stroke-dasharray:2,3.3;stroke-dashoffset:0;stroke-width:2;" />
+    </ns0:g>
+    <ns0:g id="line2d_57" />
+    <ns0:g id="text_27">
+     
+     <ns0:g transform="translate(279.4399 229.140174)scale(0.1 -0.1)">
+      <ns0:defs>
+       <ns0:path d="M L L L L L L L L z M L L L z" id="NimbusSanL-Regu-41" transform="scale(0.015625)" />
+      </ns0:defs>
+      <ns0:use transform="scale(0.996264)" ns4:href="#NimbusSanL-Regu-5b" />
+      <ns0:use transform="translate(27.69517 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-30" />
+      <ns0:use transform="translate(83.086847 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-2e" />
+      <ns0:use transform="translate(110.782016 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-39" />
+      <ns0:use transform="translate(166.173693 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-31" />
+      <ns0:use transform="translate(221.56537 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-37" />
+      <ns0:use transform="translate(276.957047 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-5d" />
+      <ns0:use transform="translate(332.347386 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-41" />
+      <ns0:use transform="translate(398.797417 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-69" />
+      <ns0:use transform="translate(420.914202 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-41" />
+      <ns0:use transform="translate(475.409551 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-54" />
+      <ns0:use transform="translate(524.3265 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-72" />
+      <ns0:use transform="translate(556.505633 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-61" />
+      <ns0:use transform="translate(611.89731 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-63" />
+      <ns0:use transform="translate(659.718499 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-6b" />
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="line2d_58">
+     <ns0:path d="M L" style="fill:none;stroke:#ffff00;stroke-linecap:square;stroke-width:2;" />
+    </ns0:g>
+    <ns0:g id="line2d_59" />
+    <ns0:g id="text_28">
+     
+     <ns0:g transform="translate(279.4399 240.36048)scale(0.1 -0.1)">
+      <ns0:defs>
+       <ns0:path d="M L L L L L L L L L L L L L z" id="NimbusSanL-Regu-4d" transform="scale(0.015625)" />
+       <ns0:path d="M L L L L L L L L L L L L z" id="NimbusSanL-Regu-78" transform="scale(0.015625)" />
+       <ns0:path d="M L L L L L L L L L L z" id="NimbusSanL-Regu-46" transform="scale(0.015625)" />
+       <ns0:path d="M L L L C C L L L C C L L L C C C C L L z" id="NimbusSanL-Regu-6d" transform="scale(0.015625)" />
+      </ns0:defs>
+      <ns0:use transform="scale(0.996264)" ns4:href="#NimbusSanL-Regu-5b" />
+      <ns0:use transform="translate(27.69517 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-30" />
+      <ns0:use transform="translate(83.086847 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-2e" />
+      <ns0:use transform="translate(110.782016 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-39" />
+      <ns0:use transform="translate(166.173693 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-31" />
+      <ns0:use transform="translate(221.56537 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-31" />
+      <ns0:use transform="translate(276.957047 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-5d" />
+      <ns0:use transform="translate(332.347386 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-4d" />
+      <ns0:use transform="translate(415.335816 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-69" />
+      <ns0:use transform="translate(437.452601 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-78" />
+      <ns0:use transform="translate(487.265801 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-46" />
+      <ns0:use transform="translate(545.149324 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-6f" />
+      <ns0:use transform="translate(600.541001 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-72" />
+      <ns0:use transform="translate(636.206845 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-6d" />
+      <ns0:use transform="translate(719.195275 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-65" />
+      <ns0:use transform="translate(774.586952 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-72" />
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="line2d_60">
+     <ns0:path d="M L" style="fill:none;stroke:#00a2e8;stroke-dasharray:7.4,3.2;stroke-dashoffset:0;stroke-width:2;" />
+    </ns0:g>
+    <ns0:g id="line2d_61" />
+    <ns0:g id="text_29">
+     
+     <ns0:g transform="translate(279.4399 251.580787)scale(0.1 -0.1)">
+      <ns0:defs>
+       <ns0:path d="M C C C C C C C C C C L z M C C C C z" id="NimbusSanL-Regu-36" transform="scale(0.015625)" />
+      </ns0:defs>
+      <ns0:use transform="scale(0.996264)" ns4:href="#NimbusSanL-Regu-5b" />
+      <ns0:use transform="translate(27.69517 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-30" />
+      <ns0:use transform="translate(83.086847 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-2e" />
+      <ns0:use transform="translate(110.782016 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-39" />
+      <ns0:use transform="translate(166.173693 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-30" />
+      <ns0:use transform="translate(221.56537 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-36" />
+      <ns0:use transform="translate(276.957047 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-5d" />
+      <ns0:use transform="translate(332.347386 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-54" />
+      <ns0:use transform="translate(381.264335 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-6f" />
+      <ns0:use transform="translate(436.656012 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-4d" />
+      <ns0:use transform="translate(519.644442 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-50" />
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="line2d_62">
+     <ns0:path d="M L" style="fill:none;stroke:#808080;stroke-dasharray:2,3.3;stroke-dashoffset:0;stroke-width:2;" />
+    </ns0:g>
+    <ns0:g id="line2d_63" />
+    <ns0:g id="text_30">
+     
+     <ns0:g transform="translate(279.4399 262.801094)scale(0.1 -0.1)">
+      <ns0:defs>
+       <ns0:path d="M L L C C C L C C C C C C C L C C C C C L z" id="NimbusSanL-Regu-33" transform="scale(0.015625)" />
+       <ns0:path d="M L C C L L z M L L C C L z" id="NimbusSanL-Regu-44" transform="scale(0.015625)" />
+      </ns0:defs>
+      <ns0:use transform="scale(0.996264)" ns4:href="#NimbusSanL-Regu-5b" />
+      <ns0:use transform="translate(27.69517 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-30" />
+      <ns0:use transform="translate(83.086847 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-2e" />
+      <ns0:use transform="translate(110.782016 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-39" />
+      <ns0:use transform="translate(166.173693 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-30" />
+      <ns0:use transform="translate(221.56537 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-33" />
+      <ns0:use transform="translate(276.957047 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-5d" />
+      <ns0:use transform="translate(332.347386 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-50" />
+      <ns0:use transform="translate(398.797417 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-72" />
+      <ns0:use transform="translate(431.972647 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-44" />
+      <ns0:use transform="translate(503.902632 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-69" />
+      <ns0:use transform="translate(526.019416 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-6d" />
+      <ns0:use transform="translate(609.007847 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-70" />
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="line2d_64">
+     <ns0:path d="M L" style="fill:none;stroke:#0000ff;stroke-linecap:square;stroke-width:2;" />
+    </ns0:g>
+    <ns0:g id="line2d_65" />
+    <ns0:g id="text_31">
+     
+     <ns0:g transform="translate(279.4399 274.0214)scale(0.1 -0.1)">
+      <ns0:defs>
+       <ns0:path d="M C C C C C C C C z M C C C C z M C C C C z" id="NimbusSanL-Regu-38" transform="scale(0.015625)" />
+      </ns0:defs>
+      <ns0:use transform="scale(0.996264)" ns4:href="#NimbusSanL-Regu-5b" />
+      <ns0:use transform="translate(27.69517 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-30" />
+      <ns0:use transform="translate(83.086847 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-2e" />
+      <ns0:use transform="translate(110.782016 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-38" />
+      <ns0:use transform="translate(166.173693 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-39" />
+      <ns0:use transform="translate(221.56537 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-39" />
+      <ns0:use transform="translate(276.957047 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-5d" />
+      <ns0:use transform="translate(332.347386 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-44" />
+      <ns0:use transform="translate(404.277371 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-69" />
+      <ns0:use transform="translate(426.394155 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-4d" />
+      <ns0:use transform="translate(509.382586 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-50" />
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="line2d_66">
+     <ns0:path d="M L" style="fill:none;stroke:#00ffff;stroke-dasharray:7.4,3.2;stroke-dashoffset:0;stroke-width:2;" />
+    </ns0:g>
+    <ns0:g id="line2d_67" />
+    <ns0:g id="text_32">
+     
+     <ns0:g transform="translate(279.4399 285.241707)scale(0.1 -0.1)">
+      <ns0:use transform="scale(0.996264)" ns4:href="#NimbusSanL-Regu-5b" />
+      <ns0:use transform="translate(27.69517 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-30" />
+      <ns0:use transform="translate(83.086847 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-2e" />
+      <ns0:use transform="translate(110.782016 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-38" />
+      <ns0:use transform="translate(166.173693 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-39" />
+      <ns0:use transform="translate(221.56537 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-33" />
+      <ns0:use transform="translate(276.957047 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-5d" />
+      <ns0:use transform="translate(332.347386 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-54" />
+      <ns0:use transform="translate(381.264335 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-72" />
+      <ns0:use transform="translate(413.443468 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-61" />
+      <ns0:use transform="translate(468.835145 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-6e" />
+      <ns0:use transform="translate(524.226822 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-73" />
+      <ns0:use transform="translate(574.040023 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-54" />
+     </ns0:g>
+    </ns0:g>
+    <ns0:g id="line2d_68">
+     <ns0:path d="M L" style="fill:none;stroke:#880015;stroke-dasharray:2,3.3;stroke-dashoffset:0;stroke-width:2;" />
+    </ns0:g>
+    <ns0:g id="line2d_69" />
+    <ns0:g id="text_33">
+     
+     <ns0:g transform="translate(279.4399 296.462014)scale(0.1 -0.1)">
+      <ns0:defs>
+       <ns0:path d="M C C C C C C L C C C C C C L z" id="NimbusSanL-Regu-43" transform="scale(0.015625)" />
+      </ns0:defs>
+      <ns0:use transform="scale(0.996264)" ns4:href="#NimbusSanL-Regu-5b" />
+      <ns0:use transform="translate(27.69517 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-30" />
+      <ns0:use transform="translate(83.086847 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-2e" />
+      <ns0:use transform="translate(110.782016 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-38" />
+      <ns0:use transform="translate(166.173693 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-31" />
+      <ns0:use transform="translate(221.56537 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-39" />
+      <ns0:use transform="translate(276.957047 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-5d" />
+      <ns0:use transform="translate(332.347386 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-54" />
+      <ns0:use transform="translate(393.219017 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-43" />
+      <ns0:use transform="translate(465.149002 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-54" />
+      <ns0:use transform="translate(514.065951 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-72" />
+      <ns0:use transform="translate(546.245084 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-61" />
+      <ns0:use transform="translate(601.636761 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-63" />
+      <ns0:use transform="translate(649.45795 0)scale(0.996264)" ns4:href="#NimbusSanL-Regu-6b" />
+     </ns0:g>
+    </ns0:g>
+   </ns0:g>
+  </ns0:g>
+ </ns0:g>
+ <ns0:defs>
+  <ns0:clipPath id="p45db607c7c">
+   <ns0:rect height="266.112" width="266.112" x="103.104" y="41.472" />
+  </ns0:clipPath>
+ </ns0:defs>
+</ns0:svg>
