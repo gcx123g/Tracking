@@ -1,5 +1,6 @@
 Kalman_Filter/data/*
 Kalman_Filter/results/*
 .idea/*
-
+LaSOT/tracker_results/*
+LaSOT/vis_results/*
 
