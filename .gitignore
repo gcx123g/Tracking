@@ -1,2 +1,5 @@
 Kalman_Filter/data/*
 Kalman_Filter/results/*
+.idea/*
+
+
